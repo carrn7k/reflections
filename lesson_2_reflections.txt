@@ -3,5 +3,16 @@ Why do you need to do it?
 
 -A hidden .git folder is added to the directory. The
 Folder contains the necessary files for Git to interact
-of the version-control system.
 with your repository. It gives you the functionality 
+of the version-control system.
+
+2.How is the staging area different from the working
+directory and the repository? What value do you think 
+it offers?
+
+-The staging area is not permanent and allows you the 
+opportunity to choose which files will be relevant to 
+each commit. It also provides some safety by giving you
+time to preview and second-check a commit before it is 
+made.
+
