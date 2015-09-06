@@ -1,0 +1,7 @@
+1. What happens when you initialize a repository? 
+Why do you need to do it?
+
+-A hidden .git folder is added to the directory. The
+Folder contains the necessary files for Git to interact
+of the version-control system.
+with your repository. It gives you the functionality 

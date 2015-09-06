@@ -1,0 +1,59 @@
+Reflections Lesson 1:
+
+1. How did viewing a diff between two versions of a 
+file help you see the bug that was introduced?
+
+-By using a diff the computer displayed all changes
+that had been made, so it was far easier to locate
+the bug by checking only those places.
+
+2. How could having easy access to the entire history 
+of a file make you a more efficient programmer in the 
+long term?
+
+-It will save you the trouble of constantly backing up
+programs. Also, it will make detecting bugs and implementing/
+experimenting with changes much easier, because comparing 
+old and new versions of your program will be much easier.
+
+3. What do you think are the pros and cons of manually 
+choosing when to create a commit, like you do in Git, 
+vs having versions automatically saved, like Google Docs 
+does?
+
+-The ability to manually choose when to make a commit does
+leave you open to user error; however, it gives you more
+flexibility and precision. You can your version history 
+more logical and, therefore, maintaining, updating and
+editing your application should be easier.
+
+4. Why do you think some version control systems, like Git, 
+allow saving multiple files in one commit, while others, like 
+Google Docs, treat each file separately?
+
+-Some applications how multiple files that are inter-dependent, 
+and it is more convenient to save them, and all the interdependencies
+in one commit.
+
+5. How can you use the commands git log and git diff to view the history 
+of files?
+
+-Git log shows you the entire history of commits made (unless you are in
+a checked out version). Each version in the history has a unique id, so
+you can compare the difference between any two versions, which will show
+you changes, and possibly, bugs in your code.
+
+6. How might using version control make you more confident to make
+changes that could break something?
+
+-Having the ability to easily transition from different versions of
+your code and easily compare changes between different versions would
+make experimentation much less frightening. Changes that break your
+program could be easily detected and fixed, allowing more freedom
+to implement changes that may break functioning code.
+
+7. Now that you have your workspace set up, what do you want to 
+try using Git for?
+
+-I want to use get to set up a repository where I can share code 
+with friends and continue to develop skills as a programmer.
