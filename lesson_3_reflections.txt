@@ -10,3 +10,13 @@ project. It's better to have more oversight and control over your code so that i
 only with the changes that you really intend to make. Also, if you're working on a project with 
 a group; it's better to view and discuss the commits they make to the code before adding them to 
 your local project. 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+-Forks, clones and branchas all act upon a respository, but each has a different purpose. A clone copies
+a respository from github to your local machine. That clone then becomes unique on your machine, and any
+changes made locally stay local unless commited via git. A branch is a seperate version of your code. A
+branch can be used for experimentation or for seperating code between collaborators. Branches can be merged
+if the changes made to them are deemed appropriate for the actual project. Lastly, forks are seperate versions
+from a single repository. It's simliar to a clone, but the original author of the code will be notified when
+a new fork is made. 
